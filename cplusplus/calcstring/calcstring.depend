@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443816225 source:d:\materi stts\asistensi tugas\calcstring\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

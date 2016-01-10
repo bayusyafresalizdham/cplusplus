@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446738529 source:d:\materi stts\asistensi tugas\2048\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1446743688 source:d:\materi stts\praktikum\praktikum3\2048\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
